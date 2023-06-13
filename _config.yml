@@ -6,10 +6,10 @@ description:
   <a href="https://github.com/vish689">GitHub</a>
   
   <br>   
-  I'm a Full Stack Developer primarily workig on Java
+  I'm a Full Stack Developer primarily working on Java
   <br>
   </p>
 
-show_downloads: true
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
